@@ -1,0 +1,3 @@
+#!/Users/ray/.nvm/versions/node/v10.3.0/bin/node
+
+console.log("hello, world!");
